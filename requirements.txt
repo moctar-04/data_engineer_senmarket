@@ -1,0 +1,9 @@
+# SenMarket - Étape 0 : Générateur de données
+# Python >= 3.10
+
+faker>=24.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=14.0.0
+pytest>=7.4.0
+python-dotenv>=1.0.0
